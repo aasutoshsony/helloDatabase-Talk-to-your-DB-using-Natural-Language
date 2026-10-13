@@ -1,0 +1,8 @@
+.env
+.env.*
+
+lang-env
+lang-env/
+.venv/
+venv/
+env/

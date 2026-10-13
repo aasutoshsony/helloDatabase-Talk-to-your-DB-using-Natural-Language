@@ -1,0 +1,10 @@
+
+langchain
+langchain-community
+langchain-experimental
+langchain-google-genai
+streamlit==1.22.0
+python-dotenv==1.0.0
+mysql-connector-python
+pymysql
+chromadb
