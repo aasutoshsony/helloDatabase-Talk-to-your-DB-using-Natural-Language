@@ -33,8 +33,8 @@ def save_history(question, answer):
     )
 
 
-st.title("HelloDatabase 🔠")
-st.subheader(" Talk to Your DB Using Natural Language Q&A 👕 ")
+st.title("HelloDatabase 👕")
+st.subheader(" Talk to Your DB Using Natural Language Q&A 🔠")
 
 st.markdown("""
 <style>
