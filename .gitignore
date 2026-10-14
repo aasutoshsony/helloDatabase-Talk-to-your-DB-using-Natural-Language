@@ -6,3 +6,5 @@ lang-env/
 .venv/
 venv/
 env/
+
+query_history.json
