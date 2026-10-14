@@ -75,9 +75,4 @@ Run the Python script or notebook included in the repository.
 ## Future Improvements
 
 - Add a Streamlit chat interface.
-- Improve SQL accuracy with additional few-shot examples.
 - Add query validation and read-only database access.
-
-## License
-
-Add a license file if you intend to distribute this project as open source.
