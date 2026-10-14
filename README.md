@@ -1,6 +1,6 @@
-# HelloDatabase — Talk to Your DB Using Python
+# HelloDatabase — Talk to Your DB Using Natural Lanhuage (EN HI)
 
-An LLM-powered question-answering system that lets users interact with a MySQL database using natural language instead of writing SQL queries manually.
+An LLM-powered question-answering system that lets users interact with a MySQL database using natural language (such as English, Hinglish) instead of writing SQL queries manually.
 
 ## Features
 
